@@ -1,4 +1,4 @@
-# latex-autocite-notes-helper
+# latex-citekeys-to-obsidian-overview
 
 Small helper for a personal Obsidian-based research workflow.
 
